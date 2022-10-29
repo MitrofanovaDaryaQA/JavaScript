@@ -26,3 +26,4 @@ else if (age_1 > age_3)
 {console.log ("Keep calm and look Culture channel")}
 else {console.log ("Technical work")};
  
+ 
