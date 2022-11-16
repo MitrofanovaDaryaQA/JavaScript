@@ -6,9 +6,13 @@
    
    - Lesson_2 - [The simplest operations.];
    
-   - Lesson_3 - [Branching];
+   - Lesson_3 - [Branching.];
    
-   - Lesson_3 - [Сycles.];
+   - Lesson_4 - [Сycles.];
+   
+   - Lesson_5 - [Functons.];
+   
+   - Lesson_6 - [Array.];
    
    
 ### - ***Vadim Ksendzov - "Software Tester"***
@@ -34,7 +38,11 @@
    
    - Lesson_3 - [Ветвление];
    
-   - Lesson_3 - [Циклы];
+   - Lesson_4 - [Циклы];
+   
+   - Lesson_5 - [Функции];
+   
+   - Lesson_6 - [Массив];
    
 ### - ***Вадим Ксендзов - "Тестировщик ПО"***
 
