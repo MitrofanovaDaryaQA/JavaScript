@@ -46,16 +46,16 @@
    
 ### - ***Вадим Ксендзов - "Тестировщик ПО"***
 
-    - Homework_1 - [Первое знакомство с JS];
+   - Homework_1 - [Первое знакомство с JS];
     
-    - Homework_2 - [Переменные];
+   - Homework_2 - [Переменные];
+   
+   - Homework_3 - [Функции с ветвлением if/else];
     
-    - Homework_3 - [Функции с ветвлением if/else];
+   - Homework_4 - [Функции с ветвлением if/else];
     
-    - Homework_4 - [Функции с ветвлением if/else];
-    
-    - Homework_5 - [Функции с ветвлением if/else];
+   - Homework_5 - [Функции с ветвлением if/else];
      
-    - Homework_6 - [For/While];
+   - Homework_6 - [For/While];
     
    
