@@ -14,6 +14,8 @@
    
    - Lesson_6 - [Array.];
    
+   - Lesson_7 - [Date.];
+   
    
 ### - ***Vadim Ksendzov - "Software Tester"***
 
@@ -43,6 +45,8 @@
    - Lesson_5 - [Функции];
    
    - Lesson_6 - [Массив];
+   
+   - Lesson_7 - [Даты.];
    
 ### - ***Вадим Ксендзов - "Тестировщик ПО"***
 
