@@ -17,7 +17,8 @@
    - Lesson_7 - [Date.];
    
    - Lesson_8 - [Math functions.];
-   
+
+   - Lesson_9 - [Advanced Operations.]; 
    
 ### - ***Vadim Ksendzov - "Software Tester"***
 
@@ -51,6 +52,8 @@
    - Lesson_7 - [Даты.];
    
    - Lesson_8 - [Математические функции.];
+
+   - Lesson_9 - [Продвинутые операции.]; 
    
 ### - ***Вадим Ксендзов - "Тестировщик ПО"***
 
