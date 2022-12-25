@@ -33,6 +33,11 @@
    - Homework_5 - [Function with if/else];
    
    - Homework_6 - [For/While];
+   
+   
+### - ***[Stepik2] Maria Azhgikhina -"Web technologies: entry level"***
+
+   - Lesson_1 - [if/else]
 
 ## **Задания, выполненные мною, при изучении JavaScript, на курсах**
 ### - ***[Stepik] Anton Kholin - "JavaScript для начинающих"***
