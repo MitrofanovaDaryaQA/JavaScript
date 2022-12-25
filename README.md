@@ -37,7 +37,11 @@
    
 ### - ***[Stepik2] Maria Azhgikhina -"Web technologies: entry level"***
 
-   - Lesson_1 - [if/else]
+   - Lesson_1 - [if/else];
+   
+   - Lesson_2 - [for];
+   
+   - Lesson_3 - [function];
 
 ## **Задания, выполненные мною, при изучении JavaScript, на курсах**
 ### - ***[Stepik] Anton Kholin - "JavaScript для начинающих"***
@@ -74,4 +78,10 @@
      
    - Homework_6 - [For/While];
     
+### - ***[Stepik] Мария Ажгихина - "Web-технологии: начальный уровень"***
+
+   - Lesson_1 - [if/else];
    
+   - Lesson_2 - [for];
+   
+   - Lesson_3 - [function];
