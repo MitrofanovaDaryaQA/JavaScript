@@ -14,4 +14,24 @@ function myFunction(login){
     console.log("Статистика.");
     } else {
     console.log("Неверный логин");}
-}
+};
+
+/* Вам нужно написать в указанном месте код, который решит следующую задачу: представьте кофейню, посетитель за сумму check в чеке от 750 рублей получает скидку в размере 5%. В переменной check находится сумма покупки. Программа должна вывести в консоль итоговую целую сумму чека исходя из суммы покупки.
+
+ */
+
+function myFunction(check) {         
+    if (check >= 750) {
+       let sale = check * 0.05; 
+       let result = check - sale;
+        result = parseInt(result);
+        console.log(result);
+        } else {
+            console.log(check);
+    }
+};
+
+
+
+
+
